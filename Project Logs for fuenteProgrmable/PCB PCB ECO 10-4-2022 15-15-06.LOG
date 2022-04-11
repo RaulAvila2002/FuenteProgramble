@@ -1,0 +1,85 @@
+Added Component: Designator=*1(SOIC-8)
+Added Component: Designator=C1(0805)
+Added Component: Designator=C2(0805)
+Added Component: Designator=C3(0805)
+Added Component: Designator=C4(0805)
+Added Component: Designator=C5(0805)
+Added Component: Designator=D1(0805)
+Added Component: Designator=D2(MINIMELF)
+Added Component: Designator=D3(0805)
+Added Component: Designator=D8(SOT23)
+Added Component: Designator=R1(0805)
+Added Component: Designator=R2(0805)
+Added Component: Designator=R3(0805)
+Added Component: Designator=R4(0805)
+Added Component: Designator=R5(0805)
+Added Component: Designator=R6(0805)
+Added Component: Designator=VDD(Pad3x5)
+Added Component: Designator=VSS(Pad3x5)
+Added Component: Designator=VX(Pad3x5)
+Added Pin To Net: NetName=GS Pin=*1-8
+Added Pin To Net: NetName=GS Pin=*1-8
+Added Pin To Net: NetName=GS Pin=C1-1
+Added Pin To Net: NetName=GS Pin=C2-2
+Added Pin To Net: NetName=GS Pin=C3-2
+Added Pin To Net: NetName=GS Pin=C4-2
+Added Pin To Net: NetName=GS Pin=C5-2
+Added Pin To Net: NetName=GS Pin=D2-2
+Added Pin To Net: NetName=GS Pin=R4-1
+Added Pin To Net: NetName=GS Pin=R5-1
+Added Pin To Net: NetName=GS Pin=R6-1
+Added Pin To Net: NetName=GS Pin=VSS-0
+Added Net: Name=GS
+Added Pin To Net: NetName=Net*1_1 Pin=*1-1
+Added Pin To Net: NetName=Net*1_1 Pin=*1-1
+Added Pin To Net: NetName=Net*1_1 Pin=C2-1
+Added Pin To Net: NetName=Net*1_1 Pin=C3-1
+Added Pin To Net: NetName=Net*1_1 Pin=D2-1
+Added Pin To Net: NetName=Net*1_1 Pin=R1-2
+Added Pin To Net: NetName=Net*1_1 Pin=R2-1
+Added Net: Name=Net*1_1
+Added Pin To Net: NetName=Net*1_2 Pin=*1-2
+Added Pin To Net: NetName=Net*1_2 Pin=R3-1
+Added Net: Name=Net*1_2
+Added Pin To Net: NetName=Net*1_5 Pin=*1-5
+Added Pin To Net: NetName=Net*1_5 Pin=*1-5
+Added Net: Name=Net*1_5
+Added Pin To Net: NetName=Net*1_6 Pin=*1-6
+Added Pin To Net: NetName=Net*1_6 Pin=C5-1
+Added Pin To Net: NetName=Net*1_6 Pin=R2-2
+Added Net: Name=Net*1_6
+Added Pin To Net: NetName=Net*1_7 Pin=*1-7
+Added Net: Name=Net*1_7
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=D1-1
+Added Pin To Net: NetName=NetC1_2 Pin=R1-1
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=D3-2
+Added Pin To Net: NetName=NetC4_1 Pin=R3-2
+Added Pin To Net: NetName=NetC4_1 Pin=R6-2
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=VDD-0
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=VX-0
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetLED1_1 Pin=R4-2
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=NetLED2_1 Pin=R5-2
+Added Net: Name=NetLED2_1
+Added Pin To Net: NetName=NTC Pin=P1-6
+Added Net: Name=NTC
+Added Pin To Net: NetName=VDD Pin=P1-1
+Added Net: Name=VDD
+Added Pin To Net: NetName=VDIM Pin=P1-4
+Added Net: Name=VDIM
+Added Pin To Net: NetName=VREF Pin=P1-5
+Added Net: Name=VREF
+Added Pin To Net: NetName=VSS Pin=P1-3
+Added Net: Name=VSS
+Added Pin To Net: NetName=VX Pin=P1-2
+Added Net: Name=VX
+Added Class: Name=fuenteProgramable
+Added Room: Name=fuenteProgramable
